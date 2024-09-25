@@ -4,18 +4,6 @@ Prompt engineering is a relatively new discipline focused on developing and opti
 
 ## Table of Contents
 
-- [Guides](#guides)
-  - [Introduction](#introduction)
-  - [Techniques](#techniques)
-  - [Applications](#applications)
-  - [Prompt Hub](#prompt-hub)
-  - [Models](#models)
-  - [Risks and Misuses](#risks-and-misuses)
-  - [Papers](#papers)
-  - [Tools](#tools)
-  - [Notebooks](#notebooks)
-  - [Datasets](#datasets)
-  - [Additional Readings](#additional-readings)
 - [Learning Resources 📚](#learning-resources-📚)
   - [Neural Networks](#neural-networks)
   - [AI Engineering](#ai-engineering)
@@ -38,95 +26,20 @@ Prompt engineering is a relatively new discipline focused on developing and opti
   - [Document and Data Tools](#document-and-data-tools)
   - [UI and Interface Tools](#ui-and-interface-tools)
   - [AI Applications](#ai-applications)
+- [Guides](#guides)
+  - [Introduction](#introduction)
+  - [Techniques](#techniques)
+  - [Applications](#applications)
+  - [Prompt Hub](#prompt-hub)
+  - [Models](#models)
+  - [Risks and Misuses](#risks-and-misuses)
+  - [Papers](#papers)
+  - [Tools](#tools)
+  - [Notebooks](#notebooks)
+  - [Datasets](#datasets)
+  - [Additional Readings](#additional-readings)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Guides
-
-### Introduction
-- [Prompt Engineering - Introduction](https://www.promptingguide.ai/introduction)
-
-### Techniques
-- [Prompt Engineering - Techniques](https://www.promptingguide.ai/techniques)
-  - [Zero-Shot Prompting](https://www.promptingguide.ai/techniques/zeroshot)
-  - [Few-Shot Prompting](https://www.promptingguide.ai/techniques/fewshot)
-  - [Chain-of-Thought Prompting](https://www.promptingguide.ai/techniques/cot)
-  - [Self-Consistency](https://www.promptingguide.ai/techniques/consistency)
-  - [Generate Knowledge Prompting](https://www.promptingguide.ai/techniques/knowledge)
-  - [Prompt Chaining](https://www.promptingguide.ai/techniques/prompt_chaining)
-  - [Tree of Thoughts (ToT)](https://www.promptingguide.ai/techniques/tot)
-  - [Retrieval Augmented Generation](https://www.promptingguide.ai/techniques/rag)
-  - [Automatic Reasoning and Tool-use (ART)](https://www.promptingguide.ai/techniques/art)
-  - [Automatic Prompt Engineer](https://www.promptingguide.ai/techniques/ape)
-  - [Active-Prompt](https://www.promptingguide.ai/techniques/activeprompt)
-  - [Directional Stimulus Prompting](https://www.promptingguide.ai/techniques/dsp)
-  - [Program-Aided Language Models](https://www.promptingguide.ai/techniques/pal)
-  - [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
-  - [Multimodal CoT Prompting](https://www.promptingguide.ai/techniques/multimodalcot)
-  - [Graph Prompting](https://www.promptingguide.ai/techniques/graph)
-
-### Applications
-- [Prompt Engineering - Applications](https://www.promptingguide.ai/applications)
-  - [Function Calling](https://www.promptingguide.ai/applications/function_calling)
-  - [Generating Data](https://www.promptingguide.ai/applications/generating)
-  - [Generating Synthetic Dataset for RAG](https://www.promptingguide.ai/applications/synthetic_rag)
-  - [Tackling Generated Datasets Diversity](https://www.promptingguide.ai/applications/generating_textbooks)
-  - [Generating Code](https://www.promptingguide.ai/applications/coding)
-  - [Graduate Job Classification Case Study](https://www.promptingguide.ai/applications/workplace_casestudy)
-
-### Prompt Hub
-- [Prompt Engineering - Prompt Hub](https://www.promptingguide.ai/prompts)
-  - [Classification](https://www.promptingguide.ai/prompts/classification)
-  - [Coding](https://www.promptingguide.ai/prompts/coding)
-  - [Creativity](https://www.promptingguide.ai/prompts/creativity)
-  - [Evaluation](https://www.promptingguide.ai/prompts/evaluation)
-  - [Information Extraction](https://www.promptingguide.ai/prompts/information-extraction)
-  - [Image Generation](https://www.promptingguide.ai/prompts/image-generation)
-  - [Mathematics](https://www.promptingguide.ai/prompts/mathematics)
-  - [Question Answering](https://www.promptingguide.ai/prompts/question-answering)
-  - [Reasoning](https://www.promptingguide.ai/prompts/reasoning)
-  - [Text Summarization](https://www.promptingguide.ai/prompts/text-summarization)
-  - [Truthfulness](https://www.promptingguide.ai/prompts/truthfulness)
-  - [Adversarial Prompting](https://www.promptingguide.ai/prompts/adversarial-prompting)
-
-### Models
-- [Prompt Engineering - Models](https://www.promptingguide.ai/models)
-  - [ChatGPT](https://www.promptingguide.ai/models/chatgpt)
-  - [Code Llama](https://www.promptingguide.ai/models/code-llama)
-  - [Flan](https://www.promptingguide.ai/models/flan)
-  - [Gemini](https://www.promptingguide.ai/models/gemini)
-  - [GPT-4](https://www.promptingguide.ai/models/gpt-4)
-  - [LLaMA](https://www.promptingguide.ai/models/llama)
-  - [Mistral 7B](https://www.promptingguide.ai/models/mistral-7b)
-  - [Mixtral](https://www.promptingguide.ai/models/mixtral)
-  - [OLMo](https://www.promptingguide.ai/models/olmo)
-  - [Phi-2](https://www.promptingguide.ai/models/phi-2)
-  - [Model Collection](https://www.promptingguide.ai/models/collection)
-
-### Risks and Misuses
-- [Prompt Engineering - Risks and Misuses](https://www.promptingguide.ai/risks)
-  - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
-  - [Factuality](https://www.promptingguide.ai/risks/factuality)
-  - [Biases](https://www.promptingguide.ai/risks/biases)
-
-### Papers
-- [Prompt Engineering - Papers](https://www.promptingguide.ai/papers)
-  - [Overviews](https://www.promptingguide.ai/papers#overviews)
-  - [Approaches](https://www.promptingguide.ai/papers#approaches)
-  - [Applications](https://www.promptingguide.ai/papers#applications)
-  - [Collections](https://www.promptingguide.ai/papers#collections)
-
-### Tools
-- [Prompt Engineering - Tools](https://www.promptingguide.ai/tools)
-
-### Notebooks
-- [Prompt Engineering - Notebooks](https://www.promptingguide.ai/notebooks)
-
-### Datasets
-- [Prompt Engineering - Datasets](https://www.promptingguide.ai/datasets)
-
-### Additional Readings
-- [Prompt Engineering - Additional Readings](https://www.promptingguide.ai/readings)
 
 ## Learning Resources 📚
 
@@ -319,6 +232,93 @@ These resources were curated from various GitHub repositories and online sources
   Create and operate AI-native apps based on OpenAI GPT models.
 - [txtai](https://github.com/neuml/txtai)  
   Semantic search and workflows powered by language models.
+
+## Guides
+
+### Introduction
+- [Prompt Engineering - Introduction](https://www.promptingguide.ai/introduction)
+
+### Techniques
+- [Prompt Engineering - Techniques](https://www.promptingguide.ai/techniques)
+  - [Zero-Shot Prompting](https://www.promptingguide.ai/techniques/zeroshot)
+  - [Few-Shot Prompting](https://www.promptingguide.ai/techniques/fewshot)
+  - [Chain-of-Thought Prompting](https://www.promptingguide.ai/techniques/cot)
+  - [Self-Consistency](https://www.promptingguide.ai/techniques/consistency)
+  - [Generate Knowledge Prompting](https://www.promptingguide.ai/techniques/knowledge)
+  - [Prompt Chaining](https://www.promptingguide.ai/techniques/prompt_chaining)
+  - [Tree of Thoughts (ToT)](https://www.promptingguide.ai/techniques/tot)
+  - [Retrieval Augmented Generation](https://www.promptingguide.ai/techniques/rag)
+  - [Automatic Reasoning and Tool-use (ART)](https://www.promptingguide.ai/techniques/art)
+  - [Automatic Prompt Engineer](https://www.promptingguide.ai/techniques/ape)
+  - [Active-Prompt](https://www.promptingguide.ai/techniques/activeprompt)
+  - [Directional Stimulus Prompting](https://www.promptingguide.ai/techniques/dsp)
+  - [Program-Aided Language Models](https://www.promptingguide.ai/techniques/pal)
+  - [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
+  - [Multimodal CoT Prompting](https://www.promptingguide.ai/techniques/multimodalcot)
+  - [Graph Prompting](https://www.promptingguide.ai/techniques/graph)
+
+### Applications
+- [Prompt Engineering - Applications](https://www.promptingguide.ai/applications)
+  - [Function Calling](https://www.promptingguide.ai/applications/function_calling)
+  - [Generating Data](https://www.promptingguide.ai/applications/generating)
+  - [Generating Synthetic Dataset for RAG](https://www.promptingguide.ai/applications/synthetic_rag)
+  - [Tackling Generated Datasets Diversity](https://www.promptingguide.ai/applications/generating_textbooks)
+  - [Generating Code](https://www.promptingguide.ai/applications/coding)
+  - [Graduate Job Classification Case Study](https://www.promptingguide.ai/applications/workplace_casestudy)
+
+### Prompt Hub
+- [Prompt Engineering - Prompt Hub](https://www.promptingguide.ai/prompts)
+  - [Classification](https://www.promptingguide.ai/prompts/classification)
+  - [Coding](https://www.promptingguide.ai/prompts/coding)
+  - [Creativity](https://www.promptingguide.ai/prompts/creativity)
+  - [Evaluation](https://www.promptingguide.ai/prompts/evaluation)
+  - [Information Extraction](https://www.promptingguide.ai/prompts/information-extraction)
+  - [Image Generation](https://www.promptingguide.ai/prompts/image-generation)
+  - [Mathematics](https://www.promptingguide.ai/prompts/mathematics)
+  - [Question Answering](https://www.promptingguide.ai/prompts/question-answering)
+  - [Reasoning](https://www.promptingguide.ai/prompts/reasoning)
+  - [Text Summarization](https://www.promptingguide.ai/prompts/text-summarization)
+  - [Truthfulness](https://www.promptingguide.ai/prompts/truthfulness)
+  - [Adversarial Prompting](https://www.promptingguide.ai/prompts/adversarial-prompting)
+
+### Models
+- [Prompt Engineering - Models](https://www.promptingguide.ai/models)
+  - [ChatGPT](https://www.promptingguide.ai/models/chatgpt)
+  - [Code Llama](https://www.promptingguide.ai/models/code-llama)
+  - [Flan](https://www.promptingguide.ai/models/flan)
+  - [Gemini](https://www.promptingguide.ai/models/gemini)
+  - [GPT-4](https://www.promptingguide.ai/models/gpt-4)
+  - [LLaMA](https://www.promptingguide.ai/models/llama)
+  - [Mistral 7B](https://www.promptingguide.ai/models/mistral-7b)
+  - [Mixtral](https://www.promptingguide.ai/models/mixtral)
+  - [OLMo](https://www.promptingguide.ai/models/olmo)
+  - [Phi-2](https://www.promptingguide.ai/models/phi-2)
+  - [Model Collection](https://www.promptingguide.ai/models/collection)
+
+### Risks and Misuses
+- [Prompt Engineering - Risks and Misuses](https://www.promptingguide.ai/risks)
+  - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
+  - [Factuality](https://www.promptingguide.ai/risks/factuality)
+  - [Biases](https://www.promptingguide.ai/risks/biases)
+
+### Papers
+- [Prompt Engineering - Papers](https://www.promptingguide.ai/papers)
+  - [Overviews](https://www.promptingguide.ai/papers#overviews)
+  - [Approaches](https://www.promptingguide.ai/papers#approaches)
+  - [Applications](https://www.promptingguide.ai/papers#applications)
+  - [Collections](https://www.promptingguide.ai/papers#collections)
+
+### Tools
+- [Prompt Engineering - Tools](https://www.promptingguide.ai/tools)
+
+### Notebooks
+- [Prompt Engineering - Notebooks](https://www.promptingguide.ai/notebooks)
+
+### Datasets
+- [Prompt Engineering - Datasets](https://www.promptingguide.ai/datasets)
+
+### Additional Readings
+- [Prompt Engineering - Additional Readings](https://www.promptingguide.ai/readings)
 
 ## Contributing
 
