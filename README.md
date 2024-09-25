@@ -79,6 +79,7 @@ The following resources were pulled from other GitHubs (e.g., [this](https://git
 ### Learning Resources 📚
 
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - From Andrej Karpathy, former Director of AI at Tesla and now at OpenAI.
+- [AI Engineering Academy](https://academy.finxter.com) - The popular Finxter academy (150k subscribed users) with 50+ courses and downloadable course certificates.
 - [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) - From the creators of the [Full Stack Deep Learning](https://fullstackdeeplearning.com/) course and book
 - [All about LLMs](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) - A gist with great curated learning resources
 - [Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E) - Introduction to Transformers w/ Andrej Karpathy
