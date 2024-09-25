@@ -3,7 +3,7 @@
 Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs). Researchers use prompt engineering to improve the capacity of LLMs on a wide range of common and complex tasks such as question answering and arithmetic reasoning. Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
 
 ## Guides
-You can also find the most up-to-date guides on our new website [https://www.promptingguide.ai/](https://www.promptingguide.ai/).
+This website is a solid resource for all kinds of prompt engineering tips:
 
 - [Prompt Engineering - Introduction](https://www.promptingguide.ai/introduction)
   - [Prompt Engineering - LLM Settings](https://www.promptingguide.ai/introduction/settings)
