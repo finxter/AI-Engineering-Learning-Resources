@@ -155,6 +155,8 @@ These resources were curated from various GitHub repositories and online sources
   An accessible explanation of how ChatGPT operates.
 
 ### Courses and Guides
+- [AI Engineering Academy](https://academy.finxter.com)  
+  Full Program to becoming an AI engineer, affordable with downloadable course certificates.
 - [ChatGPT Prompt Engineering for Developers!](https://www.deeplearning.ai/)  
   A comprehensive course by OpenAI employees.
 - [Learn Prompting](https://learnprompting.org/)  
