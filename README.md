@@ -2,36 +2,6 @@
 
 Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs). Researchers use prompt engineering to improve the capacity of LLMs on a wide range of common and complex tasks such as question answering and arithmetic reasoning. Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
 
-Motivated by the high interest in developing with LLMs, we have created this new prompt engineering guide that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering for LLMs.
-
-🌐 [Prompt Engineering Guide (Web Version)](https://www.promptingguide.ai/)
-
-🎉 We are excited to launch our brand new prompt engineering courses under the DAIR.AI Academy. [Join Now](https://dair-ai.thinkific.com/bundles/pro)!
-
-Happy Prompting!
-
----
-## Announcements / Updates
-
-- 🎓 We now offer self-paced prompt engineering courses under our DAIR.AI Academy. [Join Now](https://dair-ai.thinkific.com/bundles/pro)! 
-- 🎓 New course on Prompt Engineering for LLMs announced! [Enroll here](https://maven.com/dair-ai/prompt-engineering-llms)!
-- 💼 We now offer several [services](https://www.promptingguide.ai/services) like corporate training, consulting, and talks.
-- 🌐 We now support 13 languages! Welcoming more translations.
-- 👩‍🎓 We crossed 3 million learners in January 2024!
-- 🎉 We have launched a new web version of the guide [here](https://www.promptingguide.ai/)
-- 🔥 We reached #1 on Hacker News on 21 Feb 2023
-- 🎉 The First Prompt Engineering Lecture went live [here](https://youtu.be/dOxUroR57xs)
-
-[Join our Discord](https://discord.com/invite/SKgkVT8BGJ)
-
-[Follow us on Twitter](https://twitter.com/dair_ai)
-
-[Subscribe to our YouTube](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ)
-
-[Subscribe to our Newsletter](https://nlpnews.substack.com/)
-
----
-
 ## Guides
 You can also find the most up-to-date guides on our new website [https://www.promptingguide.ai/](https://www.promptingguide.ai/).
 
