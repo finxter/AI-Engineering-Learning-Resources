@@ -32,16 +32,16 @@ If you like stuff like this, also check out my [free email newsletter](https://b
 - [TheBloke on HF](https://huggingface.co/TheBloke) ⭐ Compiles top open-source models in various formats.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) Create 🦜️🔗 LangChain apps using prompts.
 - [Llama2 Web UI](https://github.com/liltom-eth/llama2-webui) Run Llama 2 with a Gradio web UI on GPU or CPU.
-- [ChatGPT](https://www.promptingguide.ai/models/chatgpt)
-- [Code Llama](https://www.promptingguide.ai/models/code-llama)
-- [Flan](https://www.promptingguide.ai/models/flan)
-- [Gemini](https://www.promptingguide.ai/models/gemini)
-- [GPT-4](https://www.promptingguide.ai/models/gpt-4)
-- [LLaMA](https://www.promptingguide.ai/models/llama)
-- [Mistral 7B](https://www.promptingguide.ai/models/mistral-7b)
-- [Mixtral](https://www.promptingguide.ai/models/mixtral)
-- [OLMo](https://www.promptingguide.ai/models/olmo)
-- [Phi-2](https://www.promptingguide.ai/models/phi-2)
+- [ChatGPT](https://openai.com/chatgpt) - A conversational AI developed by OpenAI, built upon GPT-3.5 and GPT-4 models. It is capable of answering questions, writing content, and assisting with a wide variety of tasks in natural language.
+- [Code Llama](https://ai.meta.com/llama/) - A specialized variant of Meta's LLaMA model tailored for programming tasks, offering enhanced capabilities for code generation and understanding.
+- [Flan](https://github.com/google-research/t5x) - A series of large language models by Google trained with fine-tuning on a variety of tasks to improve general language understanding and response accuracy.
+- [Gemini](https://www.deepmind.com/research/case-studies/gemini) - A family of models from DeepMind, designed to offer conversational abilities similar to ChatGPT, with enhancements focused on reasoning and problem-solving.
+- [GPT-4](https://platform.openai.com/docs/models/gpt-4) - OpenAI's latest and most powerful language model, capable of understanding and generating complex content, used in many applications, including the latest versions of ChatGPT.
+- [LLaMA](https://ai.meta.com/llama/) - Developed by Meta, this large language model focuses on efficiency and performance, designed to make advancements in natural language processing accessible to researchers.
+- [Mistral 7B](https://www.mistral.ai/) - A lightweight language model with 7 billion parameters, designed by Mistral AI to provide high performance with a smaller model footprint, suitable for both research and practical use.
+- [Mixtral](https://www.mistral.ai/mixtral) - A model combining fine-tuned capabilities from Mistral AI, focusing on enhancing conversational and generative performance.
+- [OLMo](https://www.microsoft.com/en-us/research/project/olm/) - An ongoing research project by Microsoft focusing on optimizing large language models for efficiency and effectiveness in both training and inference.
+- [Phi-2](https://phi-models.org/) - An experimental language model exploring new architectures and learning techniques, aimed at advancing the field of NLP with a focus on energy efficiency and interpretability.
 
 
 ## Agents and Agent Frameworks
