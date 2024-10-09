@@ -1,6 +1,8 @@
 # AI Engineering Learning Resources
 
-These resources were curated from various GitHub repositories and online sources to help you deepen your understanding of AI engineering, prompting, and related fields.
+AI engineering is the most important job description of our times because AI engineers deploy the already existing models in the real world for the benefit of all humanity. The goal of this resource guide is to help you deepen your understanding of AI engineering, prompting, and related fields. I have curated these resources from various GitHub repositories, Reddit, X, and other online sources. 
+
+If you like stuff like this, also check out my [free email newsletter](https://blog.finxter.com/) - more than 150,000 upcoming AI engineers are already subscribed!
 
 ## Courses and Guides
 - [AI Engineering Academy](https://academy.finxter.com) Full Program to becoming an AI engineer, affordable with downloadable course certificates.
