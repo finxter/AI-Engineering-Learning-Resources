@@ -27,15 +27,16 @@ If you like stuff like this, also check out my [free email newsletter](https://b
 
 ## List of AI Model Resources
 - [ChatGPT](https://openai.com/chatgpt) - A conversational AI developed by OpenAI capable of answering questions, writing content, solving math problems, visualizing data, coding, image generation, web search, and assisting with a wide variety of tasks in natural language.
-- [HuggingChat](https://huggingface.co/chat/) ⭐ Making the community's best AI chat models available to everyone.
+- [HuggingChat](https://huggingface.co/chat/) - ⭐ Making the community's best AI chat models available to everyone.
+- [Venice AI](https://venice.ai/chat) - Uncensored AI Model
 - [GPT-4o](https://platform.openai.com/docs/models/gpt-4o) - High-intelligence flagship model for complex, multi-step tasks
 - [GPT-4o-mini](https://platform.openai.com/docs/models/gpt-4o-mini) - Affordable and intelligent small model for fast, lightweight tasks
 - [o1-preview and o1-mini](https://platform.openai.com/docs/models/o1) - Language models trained with reinforcement learning to perform complex reasoning.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) Evaluate and rank open-source LLMs.
-- [DemoGPT](https://github.com/melih-unsal/DemoGPT) Create 🦜️🔗 LangChain apps using prompts.
-- [Llama2 Web UI](https://github.com/liltom-eth/llama2-webui) Run Llama 2 with a Gradio web UI on GPU or CPU.
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create 🦜️🔗 LangChain apps using prompts.
+- [Llama2 Web UI](https://github.com/liltom-eth/llama2-webui) - Run Llama 2 with a Gradio web UI on GPU or CPU.
 - [Code Llama](https://ai.meta.com/llama/) - A specialized variant of Meta's LLaMA model tailored for programming tasks, offering enhanced capabilities for code generation and understanding.
-- [JARVIS](https://github.com/microsoft/JARVIS) An interface to connect numerous AI models.
+- [JARVIS](https://github.com/microsoft/JARVIS) - An interface to connect numerous AI models.
 - [Flan](https://github.com/google-research/t5x) - A series of large language models by Google trained with fine-tuning on a variety of tasks to improve general language understanding and response accuracy.
 - [Gemini](https://www.deepmind.com/research/case-studies/gemini) - A family of models from DeepMind, designed to offer conversational abilities similar to ChatGPT, with enhancements focused on reasoning and problem-solving.
 - [OpenAI Flagship Models (GPT-4o and o1)]([https://platform.openai.com/docs/models/gpt-4](https://platform.openai.com/docs/models/overview)) - OpenAI's latest and most powerful language model, capable of understanding and generating complex content, used in many applications, including the latest versions of ChatGPT.
