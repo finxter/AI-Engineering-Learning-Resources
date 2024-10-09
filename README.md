@@ -1,43 +1,8 @@
-# Prompt Engineering Guide
+# AI Engineering Learning Resources
 
-Prompt engineering is a relatively new discipline focused on developing and optimizing prompts to efficiently utilize language models (LMs) for a wide variety of applications and research topics. Mastering prompt engineering helps in understanding the capabilities and limitations of large language models (LLMs). Researchers leverage prompt engineering to enhance the performance of LLMs on diverse tasks such as question answering and arithmetic reasoning. Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
+These resources were curated from various GitHub repositories and online sources to help you deepen your understanding of AI engineering, prompting, and related fields.
 
-## Table of Contents
-
-- [Learning Resources 📚](#learning-resources-📚)
-  - [Transformers](#transformers)
-  - [Courses and Guides](#courses-and-guides)
-- [LLMs](#llms)
-  - [Other Notable LLMs](#other-notable-llms)
-- [Chat and Agents](#chat-and-agents)
-  - [Open-Source Agents](#open-source-agents)
-  - [Agent Frameworks](#agent-frameworks)
-- [Development](#development)
-  - [Frameworks and Libraries](#frameworks-and-libraries)
-  - [Programming Tools](#programming-tools)
-- [Tools](#tools)
-  - [Document and Data Tools](#document-and-data-tools)
-  - [UI and Interface Tools](#ui-and-interface-tools)
-  - [AI Applications](#ai-applications)
-- [Guides](#guides)
-  - [Techniques](#techniques)
-  - [Applications](#applications)
-  - [Prompt Hub](#prompt-hub)
-  - [Models](#models)
-  - [Risks and Misuses](#risks-and-misuses)
-  - [Papers](#papers)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Learning Resources 📚
-
-These resources were curated from various GitHub repositories and online sources to help you deepen your understanding of prompt engineering and related fields.
-
-### Transformers
-- [Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E) Introduction to Transformers with Andrej Karpathy.
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) A great visual explanation of the Transformer architecture.
-
-### Courses and Guides
+## Courses and Guides
 - [AI Engineering Academy](https://academy.finxter.com) Full Program to becoming an AI engineer, affordable with downloadable course certificates.
 - [ChatGPT Prompt Engineering for Developers!](https://www.deeplearning.ai/) A comprehensive course by OpenAI employees.
 - [Learn Prompting](https://learnprompting.org/) A text-based course focused on prompting techniques.
@@ -53,25 +18,33 @@ These resources were curated from various GitHub repositories and online sources
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml) Google's best practices in machine learning.
 - [AI Companion App](https://github.com/a16z-infra/companion-app) A tutorial stack to create and host AI companions accessible via browser or SMS.
 
-## LLMs
 
-### Other Notable LLMs
+## Transformers and LLMs
+- [Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E) Introduction to Transformers with Andrej Karpathy.
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) A great visual explanation of the Transformer architecture.
 - [JARVIS](https://github.com/microsoft/JARVIS) An interface to connect numerous AI models.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) Evaluate and rank open-source LLMs.
 - [Guidance](https://github.com/microsoft/guidance) ⭐ Control modern language models more effectively.
 - [TheBloke on HF](https://huggingface.co/TheBloke) ⭐ Compiles top open-source models in various formats.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) Create 🦜️🔗 LangChain apps using prompts.
 - [Llama2 Web UI](https://github.com/liltom-eth/llama2-webui) Run Llama 2 with a Gradio web UI on GPU or CPU.
+- [ChatGPT](https://www.promptingguide.ai/models/chatgpt)
+- [Code Llama](https://www.promptingguide.ai/models/code-llama)
+- [Flan](https://www.promptingguide.ai/models/flan)
+- [Gemini](https://www.promptingguide.ai/models/gemini)
+- [GPT-4](https://www.promptingguide.ai/models/gpt-4)
+- [LLaMA](https://www.promptingguide.ai/models/llama)
+- [Mistral 7B](https://www.promptingguide.ai/models/mistral-7b)
+- [Mixtral](https://www.promptingguide.ai/models/mixtral)
+- [OLMo](https://www.promptingguide.ai/models/olmo)
+- [Phi-2](https://www.promptingguide.ai/models/phi-2)
 
-## Chat and Agents
 
-### Open-Source Agents
+## Agents and Agent Frameworks
 - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) An open-source chat agent interacting with external sources.
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) An experimental open-source attempt to make GPT-4 fully autonomous.
 - [LoopGPT](https://github.com/farizrahman4u/loopgpt) ⭐ A modular reimplementation of Auto-GPT.
 - [ThinkGPT](https://github.com/jina-ai/thinkgpt) Implements Chain of Thought reasoning for LLMs.
-
-### Agent Frameworks
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents) ⭐ Provides a natural language API on top of transformers with curated tools.
 - [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) Specify requirements, and the AI builds the project.
 - [Khoj](https://github.com/khoj-ai/khoj) An AI personal assistant for your digital brain.
@@ -81,14 +54,10 @@ These resources were curated from various GitHub repositories and online sources
 - [MetaGPT](https://github.com/geekan/MetaGPT) Multi-Agent Framework for generating PRDs, designs, tasks, and repositories.
 - [ChatGPT AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) Custom instructions for ChatGPT and advanced data analysis.
 
-## Development
-
-### Frameworks and Libraries
+## Development Frameworks and Libraries
 - [LangChain](https://github.com/hwchase17/langchain) ⭐ Framework for developing applications powered by LLMs.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) SDK for integrating LLMs with conventional programming languages.
 - [Langcorn](https://github.com/msoedov/langcorn) API server for serving LangChain models and pipelines.
-
-### Programming Tools
 - [Pinecone](https://www.pinecone.io/) Vector database for long-term memory with models.
 - [Chroma](https://www.trychroma.com/) Open-source alternative to Pinecone.
 - [Plugandplai](https://github.com/edreisMD/plugnplai) Simplify plugin integration into open-source LLMs.
@@ -106,102 +75,45 @@ These resources were curated from various GitHub repositories and online sources
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter/) Locally running implementation of OpenAI's Code Interpreter.
 
 ## Tools
-
-### Document and Data Tools
 - [Vault AI](https://github.com/pashpashpash/vault-ai) Upload documents and ask questions about their content.
 - [privateGPT](https://github.com/imartinez/privateGPT) ⭐ Document Q&A using open-source LLMs.
 - [Quivr](https://github.com/StanGirard/quivr) ⭐ Your Generative AI second brain for files and thoughts.
 - [h2oGPT](https://github.com/h2oai/h2ogpt) ⭐ Similar to privateGPT with GPU inference support.
 - [localGPT](https://github.com/PromtEngineer/localGPT) Uses Vicuna-7b and InstructorEmbeddings with GPU/CPU support.
 - [rag-stack](https://github.com/psychic-api/rag-stack) Deploy a private ChatGPT alternative within your VPC.
-
-### UI and Interface Tools
 - [LangFlow](https://github.com/logspace-ai/langflow) ⭐ Visual prototyping and experimentation with LangChain.
 - [Flowise](https://github.com/FlowiseAI/Flowise) Similar to LangFlow but with LangChainJS.
 - [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) Browser interface for Stable Diffusion based on Gradio.
 - [Unofficial OpenAI Status](https://openai-status.llm-utils.org/) ⭐ In-depth OpenAI status page.
-
-### AI Applications
 - [PentestGPT](https://github.com/GreyDGL/PentestGPT) 🕵️ GPT-powered penetration testing tool.
 - [TypingMind](https://www.typingmind.com/) ⭐ Enhanced UI for ChatGPT.
 - [Dify](https://github.com/langgenius/dify) Create and operate AI-native apps based on OpenAI GPT models.
 - [txtai](https://github.com/neuml/txtai) Semantic search and workflows powered by language models.
 
-## Guides
+## Prompting Techniques
+- [Zero-Shot Prompting](https://www.promptingguide.ai/techniques/zeroshot)
+- [Few-Shot Prompting](https://www.promptingguide.ai/techniques/fewshot)
+- [Chain-of-Thought Prompting](https://www.promptingguide.ai/techniques/cot)
+- [Self-Consistency](https://www.promptingguide.ai/techniques/consistency)
+- [Generate Knowledge Prompting](https://www.promptingguide.ai/techniques/knowledge)
+- [Prompt Chaining](https://www.promptingguide.ai/techniques/prompt_chaining)
+- [Tree of Thoughts (ToT)](https://www.promptingguide.ai/techniques/tot)
+- [Retrieval Augmented Generation](https://www.promptingguide.ai/techniques/rag)
+- [Automatic Reasoning and Tool-use (ART)](https://www.promptingguide.ai/techniques/art)
+- [Automatic Prompt Engineer](https://www.promptingguide.ai/techniques/ape)
+- [Active-Prompt](https://www.promptingguide.ai/techniques/activeprompt)
+- [Directional Stimulus Prompting](https://www.promptingguide.ai/techniques/dsp)
+- [Program-Aided Language Models](https://www.promptingguide.ai/techniques/pal)
+- [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
+- [Multimodal CoT Prompting](https://www.promptingguide.ai/techniques/multimodalcot)
+- [Graph Prompting](https://www.promptingguide.ai/techniques/graph)
 
-### Techniques
-- [Prompt Engineering - Techniques](https://www.promptingguide.ai/techniques)
-  - [Zero-Shot Prompting](https://www.promptingguide.ai/techniques/zeroshot)
-  - [Few-Shot Prompting](https://www.promptingguide.ai/techniques/fewshot)
-  - [Chain-of-Thought Prompting](https://www.promptingguide.ai/techniques/cot)
-  - [Self-Consistency](https://www.promptingguide.ai/techniques/consistency)
-  - [Generate Knowledge Prompting](https://www.promptingguide.ai/techniques/knowledge)
-  - [Prompt Chaining](https://www.promptingguide.ai/techniques/prompt_chaining)
-  - [Tree of Thoughts (ToT)](https://www.promptingguide.ai/techniques/tot)
-  - [Retrieval Augmented Generation](https://www.promptingguide.ai/techniques/rag)
-  - [Automatic Reasoning and Tool-use (ART)](https://www.promptingguide.ai/techniques/art)
-  - [Automatic Prompt Engineer](https://www.promptingguide.ai/techniques/ape)
-  - [Active-Prompt](https://www.promptingguide.ai/techniques/activeprompt)
-  - [Directional Stimulus Prompting](https://www.promptingguide.ai/techniques/dsp)
-  - [Program-Aided Language Models](https://www.promptingguide.ai/techniques/pal)
-  - [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
-  - [Multimodal CoT Prompting](https://www.promptingguide.ai/techniques/multimodalcot)
-  - [Graph Prompting](https://www.promptingguide.ai/techniques/graph)
-
-### Applications
-- [Prompt Engineering - Applications](https://www.promptingguide.ai/applications)
-  - [Function Calling](https://www.promptingguide.ai/applications/function_calling)
-  - [Generating Data](https://www.promptingguide.ai/applications/generating)
-  - [Generating Synthetic Dataset for RAG](https://www.promptingguide.ai/applications/synthetic_rag)
-  - [Tackling Generated Datasets Diversity](https://www.promptingguide.ai/applications/generating_textbooks)
-  - [Generating Code](https://www.promptingguide.ai/applications/coding)
-  - [Graduate Job Classification Case Study](https://www.promptingguide.ai/applications/workplace_casestudy)
-
-### Prompt Hub
-- [Prompt Engineering - Prompt Hub](https://www.promptingguide.ai/prompts)
-  - [Classification](https://www.promptingguide.ai/prompts/classification)
-  - [Coding](https://www.promptingguide.ai/prompts/coding)
-  - [Creativity](https://www.promptingguide.ai/prompts/creativity)
-  - [Evaluation](https://www.promptingguide.ai/prompts/evaluation)
-  - [Information Extraction](https://www.promptingguide.ai/prompts/information-extraction)
-  - [Image Generation](https://www.promptingguide.ai/prompts/image-generation)
-  - [Mathematics](https://www.promptingguide.ai/prompts/mathematics)
-  - [Question Answering](https://www.promptingguide.ai/prompts/question-answering)
-  - [Reasoning](https://www.promptingguide.ai/prompts/reasoning)
-  - [Text Summarization](https://www.promptingguide.ai/prompts/text-summarization)
-  - [Truthfulness](https://www.promptingguide.ai/prompts/truthfulness)
-  - [Adversarial Prompting](https://www.promptingguide.ai/prompts/adversarial-prompting)
-
-### Models
-- [Prompt Engineering - Models](https://www.promptingguide.ai/models)
-  - [ChatGPT](https://www.promptingguide.ai/models/chatgpt)
-  - [Code Llama](https://www.promptingguide.ai/models/code-llama)
-  - [Flan](https://www.promptingguide.ai/models/flan)
-  - [Gemini](https://www.promptingguide.ai/models/gemini)
-  - [GPT-4](https://www.promptingguide.ai/models/gpt-4)
-  - [LLaMA](https://www.promptingguide.ai/models/llama)
-  - [Mistral 7B](https://www.promptingguide.ai/models/mistral-7b)
-  - [Mixtral](https://www.promptingguide.ai/models/mixtral)
-  - [OLMo](https://www.promptingguide.ai/models/olmo)
-  - [Phi-2](https://www.promptingguide.ai/models/phi-2)
-  - [Model Collection](https://www.promptingguide.ai/models/collection)
-
-### Risks and Misuses
-- [Prompt Engineering - Risks and Misuses](https://www.promptingguide.ai/risks)
-  - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
-  - [Factuality](https://www.promptingguide.ai/risks/factuality)
-  - [Biases](https://www.promptingguide.ai/risks/biases)
-
-### Papers
+## AI Engineering Papers
 - [Prompt Engineering - Papers](https://www.promptingguide.ai/papers)
-  - [Overviews](https://www.promptingguide.ai/papers#overviews)
-  - [Approaches](https://www.promptingguide.ai/papers#approaches)
-  - [Applications](https://www.promptingguide.ai/papers#applications)
-  - [Collections](https://www.promptingguide.ai/papers#collections)
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please [subscribe](https://blog.finxter.com/subscribe/) to my free email newsletter on AI - and send me your suggestions as a reply to my welcome email so I know you're not a bot. 😉 
 
 ## License
 
