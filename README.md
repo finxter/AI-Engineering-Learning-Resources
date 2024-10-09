@@ -5,7 +5,7 @@ AI engineering is the most important job description of our times because AI eng
 If you like stuff like this, also check out my [free email newsletter](https://blog.finxter.com/) - more than 150,000 upcoming AI engineers are already subscribed!
 
 ## Courses and Guides
-- [AI Engineering Academy](https://academy.finxter.com) Full Program to becoming an AI engineer, affordable with downloadable course certificates.
+- [AI Engineering Academy](https://academy.finxter.com) ⭐ Full Program to becoming an AI engineer, affordable with downloadable course certificates.
 - [ChatGPT Prompt Engineering for Developers!](https://www.deeplearning.ai/) A comprehensive course by OpenAI employees.
 - [Learn Prompting](https://learnprompting.org/) A text-based course focused on prompting techniques.
 - [Prompt Engineering by Lilian Weng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) ⭐ An in-depth post from Lilian Weng, Head of Applied AI Research at OpenAI.
@@ -19,6 +19,8 @@ If you like stuff like this, also check out my [free email newsletter](https://b
 - [Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) ⭐ A learning path on Generative AI products and technologies from Google Cloud.
 - [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml) Google's best practices in machine learning.
 - [AI Companion App](https://github.com/a16z-infra/companion-app) A tutorial stack to create and host AI companions accessible via browser or SMS.
+
+⭐ FREE Course: [A Beginner's Guide to AI Engineering (Full Course)](https://academy.finxter.com/course/full-course/)
 
 
 ## Transformers and LLMs
