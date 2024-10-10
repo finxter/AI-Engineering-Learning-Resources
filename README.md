@@ -1,26 +1,28 @@
-# AI Engineering Learning Resources
+# The Best AI Engineering Learning Resources (Curated List)
 
-AI engineering is the most important job description of our times because AI engineers deploy the already existing models in the real world for the benefit of all humanity. The goal of this resource guide is to help you deepen your understanding of AI engineering, prompting, and related fields. I have curated these resources from various GitHub repositories, Reddit, X, and other online sources. 
+AI engineering is THE ULTIMATE SKILL in the age of AI - because as AI engineers we deploy models in the real world. AI - no matter how powerful - would be useless without AI engineers!
 
-If you like stuff like this, also check out my [free email newsletter](https://blog.finxter.com/) - more than 150,000 upcoming AI engineers are already subscribed!
+The goal of this resource guide is to help you deepen your understanding of AI engineering, prompting, and related fields. I have curated these resources from various GitHub repositories, Reddit, X, and other online sources. 
+
+If you like stuff like this, also check out my [free email newsletter](https://blog.finxter.com/) to help you be on the right side of change. More than 150,000 upcoming AI engineers are already subscribed - and counting!
 
 ## Courses and Guides
-- [AI Engineering Academy](https://academy.finxter.com) ⭐ Full Program to becoming an AI engineer, affordable with downloadable course certificates.
-- [ChatGPT Prompt Engineering for Developers!](https://www.deeplearning.ai/) A comprehensive course by OpenAI employees.
-- [Learn Prompting](https://learnprompting.org/) A text-based course focused on prompting techniques.
-- [Prompt Engineering by Lilian Weng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) ⭐ An in-depth post from Lilian Weng, Head of Applied AI Research at OpenAI.
-- [MLOps Guide](https://github.com/Nyandwi/machine_learning_complete/blob/main/010_mlops/1_mlops_guide.md) A guide on MLOps best practices.
-- [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) A comprehensive course on MLOps.
-- [Prompt Engineering Repository](https://github.com/brexhq/prompt-engineering) Covers the history, strategies, guidelines, and safety recommendations for working with LLMs.
-- [Gandalf](https://gandalf.lakera.ai/) A fun tool to learn about prompt injection.
-- [Practical Deep Learning](https://course.fast.ai/) A course for applying deep learning and machine learning to practical problems.
-- [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) ⭐ From Andrej Karpathy, building GPT from scratch in code.
-- [AI Canon](https://a16z.com/2023/05/25/ai-canon/) ⭐ A curated list of essential AI resources.
-- [Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) ⭐ A learning path on Generative AI products and technologies from Google Cloud.
-- [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml) Google's best practices in machine learning.
-- [AI Companion App](https://github.com/a16z-infra/companion-app) A tutorial stack to create and host AI companions accessible via browser or SMS.
-- [Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E) Introduction to Transformers with Andrej Karpathy.
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) A great visual explanation of the Transformer architecture.
+- [AI Engineering Academy](https://academy.finxter.com) - ⭐ Full Program to becoming an AI engineer, affordable with downloadable course certificates.
+- [ChatGPT Prompt Engineering for Developers!](https://www.deeplearning.ai/courses/) - A comprehensive set of courses by OpenAI employees.
+- [Learn Prompting](https://learnprompting.org/courses) - Courses focused on prompt engineering and AI engineering.
+- [Prompt Engineering by Lilian Weng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) - An in-depth post from Lilian Weng, Head of Applied AI Research at OpenAI.
+- [MLOps Guide](https://github.com/Nyandwi/machine_learning_complete/blob/main/010_mlops/1_mlops_guide.md) - A guide on MLOps best practices.
+- [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - A comprehensive course on MLOps.
+- [Prompt Engineering Repository](https://github.com/brexhq/prompt-engineering) - Covers the history, strategies, guidelines, and safety recommendations for working with LLMs.
+- [Gandalf](https://gandalf.lakera.ai/) - A fun tool to learn about prompt injection.
+- [Practical Deep Learning](https://course.fast.ai/) - A course for applying deep learning and machine learning to practical problems.
+- [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) - ⭐ From Andrej Karpathy, building GPT from scratch in code.
+- [AI Canon](https://a16z.com/2023/05/25/ai-canon/) - ⭐ A curated list of essential AI resources.
+- [Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) - ⭐ A learning path on Generative AI products and technologies from Google Cloud.
+- [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml) - Google's best practices in machine learning.
+- [AI Companion App](https://github.com/a16z-infra/companion-app) - A tutorial stack to create and host AI companions accessible via browser or SMS.
+- [Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E) - Introduction to Transformers with Andrej Karpathy.
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - A great visual explanation of the Transformer architecture.
 
 ⭐ FREE Course: [A Beginner's Guide to AI Engineering (Full Course)](https://academy.finxter.com/course/full-course/)
 
