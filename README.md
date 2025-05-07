@@ -4,7 +4,7 @@ AI engineering is THE ULTIMATE SKILL in the age of AI - because as AI engineers 
 
 The goal of this resource guide is to help you deepen your understanding of AI engineering, prompting, and related fields. I have curated these resources from various GitHub repositories, Reddit, X, and other online sources. 
 
-If you like stuff like this, also check out my [free email newsletter](https://blog.finxter.com/) to help you be on the right side of change. More than 150,000 upcoming AI engineers are already subscribed - and counting!
+If you like stuff like this, also check out my [free email newsletter](https://blog.finxter.com/ai/) to help you be on the right side of change. More than 150,000 upcoming AI engineers are already subscribed - and counting!
 
 ## Courses and Guides
 - [AI Engineering Academy](https://academy.finxter.com) - ⭐ Full Program to becoming an AI engineer, affordable with downloadable course certificates.
